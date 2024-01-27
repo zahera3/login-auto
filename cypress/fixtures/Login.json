@@ -1,0 +1,10 @@
+{
+    "validUsername": "Admin",
+    "invalidUsername": "Adminn",
+    "validPassword": "admin123",
+    "invalidPassword": "admin",
+    "dashboardtxt": "Dashboard",
+    "invalidCredsMsg": "Invalid credentials",
+    "forgetPasswordMsg": "Reset Password link sent successfully",
+    "requiredFieldMsg": "Required"
+}
